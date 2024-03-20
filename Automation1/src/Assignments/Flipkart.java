@@ -22,6 +22,7 @@ public class Flipkart {
 			String text = ele.getText();
 			System.out.println(text);
 		}
+		d.quit()
 
 	}
 
